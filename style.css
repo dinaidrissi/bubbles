@@ -2,7 +2,11 @@
     background-color: #c0ffee;
     width: 100vw;
     height: 100vh;
+    transition: all 1.4s;
+    transform: translate(0,0)
 }
+
+
 
 #app div{
     border-radius: 50%;
